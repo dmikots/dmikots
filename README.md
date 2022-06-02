@@ -2,7 +2,7 @@
 
 
 ```
-class DMikots: Developer(
+class DMikots: Developer {
   fullName = "Daria Mikots",
   country = "Russia",
   age = 28,
@@ -13,5 +13,5 @@ class DMikots: Developer(
     "https://t.me/dmikots", // telegram
     "mikotsd@gmail.com" // email
   ]
-)
+}
 ```
