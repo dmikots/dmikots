@@ -1,16 +1,19 @@
-### Hi there 👋
+###  👋 Hi! Welcome to my github
 
 <!--
 **dmikots/dmikots** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+class DMikots: Developer(
+  fullName = "Daria Mikots",
+  country = "Russia",
+  age = 28,
+  
+  stack = MyStack("resume"),
+  
+  contacts = [
+    "https://t.me/dmikots", // telegram
+    "mikotsd@gmail.com" // email
+  ]
+)
+```
