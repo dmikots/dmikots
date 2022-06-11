@@ -10,7 +10,9 @@ class DMikots: Developer {
   stack = TechStack.map{$0},
   
   contacts = [
-    "https://t.me/dmikots", // telegram
+  // telegram
+    "https://t.me/dmikots",
+    // email
     "mikotsd@gmail.com" // email
   ]
 }
