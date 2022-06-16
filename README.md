@@ -1,21 +1,22 @@
 ###  👋 Hi! Welcome to my github
 
 
-```
+```swift
 class DMikots: Developer {
-  fullName = "Daria Mikots",
-  country = "Russia",
-  age = 28,
+  let fullName = "Daria Mikots"
+  let country = "Russia"
+  let age = 28
   
-  stack = TechStack.map{$0},
+  let stack = TechStack.map{$0}
   
-  contacts = [
-  // telegram
+  let contacts = [
+    // telegram
     "https://t.me/dmikots",
     // email
-    "mikotsd@gmail.com" // email
+    "mikotsd@gmail.com"
   ]
 }
+
 ```
 <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="23px"> <i>Powered by Github</i>
 
