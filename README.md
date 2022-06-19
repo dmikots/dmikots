@@ -31,4 +31,5 @@ class DMikots: Developer {
 ![ApolloGraphQL](https://img.shields.io/badge/-ApolloGraphQL-05122A?style=flat&logo=ApolloGraphQL&logoColor=violet)&nbsp;
 ![UnitTests](https://img.shields.io/badge/-UnitTests-05122A?style=flat&logo=UnitTests&logoColor=violet)&nbsp;
 ![Async/await](https://img.shields.io/badge/-Async/await-05122A?style=flat&logo=UnitTests&logoColor=violet)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=Postman)&nbsp;
 ]
