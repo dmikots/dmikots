@@ -5,7 +5,7 @@
 class DMikots: Developer {
   let fullName = "Daria Mikots"
   let country = "Russia"
-  let age = 28
+  let age = 29
   
   let stack = TechStack.map{$0}
   
