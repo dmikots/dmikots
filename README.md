@@ -14,10 +14,15 @@ class DMikots: Developer {
     "https://t.me/dmikots",
     // email
     "mikotsd@gmail.com"
-  ]
+  ]  
 }
 
 ```
+### Resume
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/1667px-Apple_logo_black.svg.png" width=14 height=16 /> <a href="https://www.notion.so/Daria-Mikots-7e0c738068474411a4143d1cba07a979">iOS</a>
+
+
+
 <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="23px"> <i>Powered by Github</i>
 
 ### 🛠 &nbsp;TechStack
@@ -33,3 +38,5 @@ class DMikots: Developer {
 ![Async/await](https://img.shields.io/badge/-Async/await-05122A?style=flat&logo=UnitTests&logoColor=violet)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=Postman)&nbsp;
 ]
+
+
