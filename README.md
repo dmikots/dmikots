@@ -19,7 +19,7 @@ class DMikots: Developer {
 
 ```
 ### Resume
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/1667px-Apple_logo_black.svg.png" width=14 height=16 /> <a href="https://www.notion.so/Daria-Mikots-86a03a88761c471d95d92209539a6b3b">iOS</a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/1667px-Apple_logo_black.svg.png" width=14 height=16 /> <a href="https://radical-product-0f1.notion.site/Daria-Mikots-b68df2fad4f7486b9f78d52274ee0c6a">iOS</a>
 
 
 
